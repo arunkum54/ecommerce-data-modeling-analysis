@@ -1,7 +1,7 @@
 Data Engineering Assignment Solution
 This repository contains my solutions to a comprehensive data engineering assignment.
 The assignment covers various aspects of data handling, modeling, analysis, and processing using Python, SQL, and Apache Spark. 
-Below is an overview of the tasks tackled and the structure of this repository:
+
 
 
 Overview
@@ -32,3 +32,6 @@ Automatically inferred schema and handled new file additions.
 Time Series Analysis:
 
 Processed AGI bot multitasking data to identify continuous work periods and aggregate activities.
+
+or any questions or feedback regarding this assignment, feel free to reach out to me at arunkumarrana754@gmail.com.com.
+
