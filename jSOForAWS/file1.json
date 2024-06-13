@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "name": "Alice",
+    "age": 30,
+    "address": {
+        "street": "123 Maple St",
+        "city": "Wonderland",
+        "state": "WL",
+        "zip": "12345"
+    },
+    "orders": [
+        {
+            "order_id": "A001",
+            "date": "2023-01-10",
+            "amount": 250.75
+        },
+        {
+            "order_id": "A002",
+            "date": "2023-02-15",
+            "amount": 150.50
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 3,
+    "name": "Charlie",
+    "age": 35,
+    "address": {
+        "street": "789 Pine St",
+        "city": "Fantasia",
+        "state": "FA",
+        "zip": "11223"
+    },
+    "orders": [
+        {
+            "order_id": "C001",
+            "date": "2023-04-01",
+            "amount": 200.00
+        },
+        {
+            "order_id": "C002",
+            "date": "2023-04-15",
+            "amount": 300.75
+        }
+    ]
+}

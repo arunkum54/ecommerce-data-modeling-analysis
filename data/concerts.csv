@@ -1,0 +1,3 @@
+concert_orchestra,concert_season,concert_location,concert_works,orchestra,season,location
+London Symphony Orchestra,2021-2022,London,"[{'title': 'Symphony No. 5', 'composer': 'Ludwig van Beethoven', 'soloists': [{'name': 'Jane Doe', 'instrument': 'Piano'}]}]",,,
+New York Philharmonic,2021-2022,New York,"[{'title': 'Piano Concerto No. 21', 'composer': 'Wolfgang Amadeus Mozart', 'soloists': [{'name': 'John Smith', 'instrument': 'Violin'}]}, {'title': 'Symphony No. 40', 'composer': 'Wolfgang Amadeus Mozart', 'soloists': []}]",,,

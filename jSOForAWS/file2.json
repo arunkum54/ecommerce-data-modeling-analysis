@@ -1,0 +1,23 @@
+{
+    "id": 2,
+    "name": "Bob",
+    "age": 25,
+    "address": {
+        "street": "456 Oak St",
+        "city": "Imaginary",
+        "state": "IM",
+        "zip": "67890"
+    },
+    "orders": [
+        {
+            "order_id": "B001",
+            "date": "2023-03-05",
+            "amount": 99.99
+        },
+        {
+            "order_id": "B002",
+            "date": "2023-03-20",
+            "amount": 49.50
+        }
+    ]
+}
